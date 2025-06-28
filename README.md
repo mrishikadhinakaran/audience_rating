@@ -1,8 +1,3 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
-
-# i need this as file please , so that it will be easy to upload
-
-Absolutely! Here’s the content of the README.md file for your **audience_rating** project, ready to be copied and saved as `README.md` in your repository:
 
 ```markdown
 # Audience Rating Project
@@ -96,24 +91,4 @@ cleaned_data = preprocess_data(data)
 
 summary = analyze_ratings(cleaned_data)
 print(summary)
-
-```
-
-## License
-
-This project is open source. Please see the LICENSE file for details.
-
-## Contributing
-
-Contributions are welcome! Feel free to open issues or submit pull requests.
-```
-
-**How to use this file:**
-
-1. **Copy** all the above content (from `# Audience Rating Project` to the end).
-2. **Paste** it into a new file named `README.md` in your project’s root directory.
-3. **Save** the file.
-4. **Commit** and **push** to your GitHub repository.
-
-Let me know if you need a `.txt` file instead or any other format!
 
